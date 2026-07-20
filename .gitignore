@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Chroma DB
+chroma_db/
+
+# Uploaded PDFs
+data/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# SQLite
+*.db
+
+# Mac
+.DS_Store
